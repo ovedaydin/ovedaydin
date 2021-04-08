@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Django
 - 🤔 I’m looking for help with React Native 
 - 💬 Ask me about anything with a cool design 
-- 📫 How to reach me: [instagram-link]@ovedaydin
-- ⚡ Fun fact: I'm an entrepreneur/artist
+- 📫 How to reach me: @ovedaydin
+- ⚡ Fun fact: I'm an entrepreneur/rapper
